@@ -1,0 +1,13 @@
+회원 서비스 개발
+
+도메인을 활용한 비즈니스 로직 작성
+
+꿀팁
+Ctrl + Alt + v = 자동 return 반환 
+ctrl alt shift T  -= Extract method =로 뽑음
+
+간편하게 테스트 케이스 만들기
+클래스명에 위치 -> alt enter
+
+테스트 작성 요령
+given / when / then

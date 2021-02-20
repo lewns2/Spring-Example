@@ -1,0 +1,29 @@
+회원 관리 예제
+
+- 비즈니스 요구사항 정리
+- 회원 도메인과 리포지토리 만들기
+- 회원 리포지토리 테스트 케이스 작성
+- 회원 서비스 개발
+- 회원 서비스 테스트
+
+1. 패키지 생성(도메인) 2. 클래스(멤버)
+
+3. getter and setter 
+
+4. 회원(리포지트리(interface로)) 5. 메모리멤버리포지토리(class) : implements
+
+6. 동작 검증을 위해 테스트 케이스 작성(JUnit 프레임워크로 테스트)
+
+@Test
+static import
+
+꿀팁
+shift + enter : 다음 라인 
+shift + F6 : 선택 요소 rename
+https://blog.jetbrains.com/idea/2020/03/top-15-intellij-idea-shortcuts/
+
+
+1. Domain.Domain.Member - 멤버 클래스 생성
+2. repository.MemberRepository - 기능(저장, id/name으로 멤버 찾기, 전체 찾기), Interface
+3. repository.MemoryMemberRepository - 기능 설계
+4. test.repository.MemoryMemberRepository - 테스트 코드

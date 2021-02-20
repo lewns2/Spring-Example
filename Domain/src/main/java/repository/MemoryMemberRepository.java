@@ -1,9 +1,11 @@
 package repository;
 
 import Domain.Domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
+@Repository
 public class MemoryMemberRepository implements MemberRepository {
 
     private static Map<Long, Member> store = new HashMap<>(); // 저장할 곳(store), Hashmap?
