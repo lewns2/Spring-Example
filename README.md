@@ -1,13 +1,14 @@
 # Spring-Example
 ## 회원 관리 예제 : 백엔드 개발, 웹 MVC 개발
-
+<ul>
 1. 비즈니스 요구사항 정리
 
 2. 회원 도메인과 리포지토리 만들기
+ <li>
  2.1 Member Class
  2.2 Member Repository : 사용하고자하는 기능(.interface)
  2.3 Memory Member Repository : 기능 설계
- 
+ </li>
 3. 회원 리포지토리 테이스 케이스 작성
  3.1 Test Code
  
@@ -16,7 +17,7 @@
  
 5. 회원 서비스 테스트
  5.1 Controller와 View Templates를 통한 화면 구성
- 
+</ul>
 #### Folder 계층 구조
 
 * main
