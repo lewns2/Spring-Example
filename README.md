@@ -56,12 +56,12 @@ Controller와 View Templates를 통한 화면 구성
   
 ### Intelij 단축키 
 
-####Code generation 단축키 : Constructor, getter and setter
+#### Code generation 단축키 : Constructor, getter and setter
 ```
 Alt + Insert
 ```
 
-####Return 반환 단축키
+#### Return 반환 단축키
  ```
  Ctrl + Alt + V
 ```
