@@ -7,7 +7,7 @@
 ```
  1. Member Class
  2. Member Repository : 사용하고자하는 기능(.interface)
- 3. Memory Member Repository : 기능 설계<br>
+ 3. Memory Member Repository : 기능 설계
 ``` 
 #### 3. 회원 리포지토리 테이스 케이스 작성<br>
 ```
